@@ -1,0 +1,12 @@
+﻿@font-face {
+  font-family: 'Comforter Brush';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/comforterbrush/v9/Y4GTYa1xVSggrfzZI5WMjxRaOz0jwA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Neucha';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/neucha/v18/q5uGsou0JOdh94bvug.ttf) format('truetype');
+}

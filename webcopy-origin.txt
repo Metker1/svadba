@@ -1,0 +1,168 @@
+Uri: https://fonts.googleapis.com/css2?family=Comforter+Brush:wght@400&family=Neucha:wght@400
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/comforterbrush/v9/Y4GTYa1xVSggrfzZI5WMjxRaOz0jwA.ttf
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\s\comforterbrush\v9\Y4GTYa1xVSggrfzZI5WMjxRaOz0jwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neucha/v18/q5uGsou0JOdh94bvug.ttf
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\s\neucha\v18\q5uGsou0JOdh94bvug.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/101548282
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\watch\101548282
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://priglashyonline.ru/stil
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\stil.html
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cart-1.0.min.css
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\css\tilda-cart-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/img/tildacopy_black.png
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\img\tildacopy_black.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cart-1.1.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-cart-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-widget-positions-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-widget-positions-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-fixed-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-zero-fixed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3433-3635-4836-b665-333962613137/free-icon-heart-2589.png
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild3433-3635-4836-b665-333962613137\free-icon-heart-2589.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3463-6362-4834-a465-373765623966/dance_partner.woff
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild3463-6362-4834-a465-373765623966\dance_partner.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3732-3531-4631-b863-376565656239/Caravan.woff
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild3732-3531-4631-b863-376565656239\Caravan.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3835-3339-4238-b331-656432633363/snellroundhand_black.woff
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild3835-3339-4238-b331-656432633363\snellroundhand_black.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6138-6434-4433-b665-613537363261/free-icon-heart-2589.png
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6138-6434-4433-b665-613537363261\free-icon-heart-2589.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6162-6330-4139-b034-346136323866/GoodVibesPro.woff
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6162-6330-4139-b034-346136323866\GoodVibesPro.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6163-3664-4633-a332-303461633733/GLUSTER.woff
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6163-3664-4633-a332-303461633733\GLUSTER.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6333-6666-4163-b762-316438316361/free-icon-heart-2589.png
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6333-6666-4163-b762-316438316361\free-icon-heart-2589.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6339-6238-4164-b132-653538633538/Cormorant-Light.woff
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6339-6238-4164-b132-653538633538\Cormorant-Light.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6539-3030-4034-b134-313136343630/PassionsConflictRUS-.woff
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6539-3030-4034-b134-313136343630\PassionsConflictRUS-.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/ws/project12953589/tilda-blocks-page71354619.min.css?t=1757853768
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\ws\project12953589\tilda-blocks-page71354619.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project12953589/tilda-blocks-page71354619.min.js?t=1757853768
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\ws\project12953589\tilda-blocks-page71354619.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.com/tild3639-6138-4230-a537-623534396533/-/resize/20x/5391254816837205204.jpg
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild3639-6138-4230-a537-623534396533\-\resize\20x\5391254816837205204.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3864-6632-4835-b531-646262386565/-/resize/20x/5395487799165187507.jpg
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild3864-6632-4835-b531-646262386565\-\resize\20x\5395487799165187507.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6239-3532-4336-b733-363865346232/-/resize/20x/5391254816837204884.jpg
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6239-3532-4336-b733-363865346232\-\resize\20x\5391254816837204884.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6330-6262-4430-b536-343735333862/-/resize/20x/5395487799165187392.jpg
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6330-6262-4430-b536-343735333862\-\resize\20x\5395487799165187392.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6562-3238-4539-b632-646636326138/-/resize/20x/5391254816837204883.jpg
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6562-3238-4539-b632-646636326138\-\resize\20x\5391254816837204883.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6639-3461-4464-a163-396561626266/-/resizeb/20x/5258103778324901958.jpg
+File Name: C:\Downloaded Web Sites\priglashyonline.ru\tild6639-3461-4464-a163-396561626266\-\resizeb\20x\5258103778324901958.jpg
+Content Type: image/jpeg
+
